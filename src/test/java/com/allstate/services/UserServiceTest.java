@@ -54,4 +54,5 @@ public class UserServiceTest {
         assertEquals(1,user.getId());
         assertEquals(1000,user.getBalance(),0.1);
     }
+
 }
